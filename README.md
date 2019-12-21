@@ -10,3 +10,11 @@ It is powered by a 1400mAh 3s Tattu Lipo Battery.
 Hockey tape was an asset, concerning cable management and the securing of key components.
 
 Unfortunately, I broke one of the propellors so the demo video only shows the motors spinning without propellors on them.
+
+![Drone_1](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0820.jpeg)
+![Drone_2](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0821.jpeg)
+![Drone_3](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0822.jpeg)
+![Drone_4](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0823.jpeg)
+![Drone_5](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0824.jpeg)
+![Drone_6](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0825.jpeg)
+![Drone_7](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0826.jpeg)
