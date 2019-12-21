@@ -11,6 +11,8 @@ Hockey tape was an asset, concerning cable management and the securing of key co
 
 Unfortunately, I broke one of the propellors so the demo video only shows the motors spinning without propellors on them.
 
+<a href="https://www.youtube.com/watch?v=lhqZ-0W7y40">View the demo</a>
+
 ![Drone_1](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0820.jpeg)
 ![Drone_2](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0821.jpeg)
 ![Drone_3](https://raw.githubusercontent.com/M4THYOU/arduino-drone/master/Images/IMG_0822.jpeg)
